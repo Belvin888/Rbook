@@ -1,0 +1,106 @@
+/* intro */
+.nav-link {
+  color: #28b5b5;
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #28b5b5;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.base {
+  width: auto;
+  height: 350px;
+  background-color: #28b5b5;
+}
+
+.icon1 {
+  color: #28b5b5;
+}
+
+.baset1 {
+  color: #f4eee8;
+  font-size: 2.4rem;
+  font-family: 'Ubuntu Mono', monospace;
+  text-align: center;
+  padding: 7% 10% 0 10%;
+}
+
+.base2 {
+  color: #f4eee8;
+  font-size: 1.2rem;
+  font-family: 'Ubuntu Mono', monospace;
+  text-align: center;
+  padding: 0 15%;
+}
+
+.babutton {
+  text-align: center;
+}
+
+/* books */
+#books {
+  padding-top: 7%;
+}
+
+.card {
+  text-align: center;
+}
+
+.cardimg {
+  height: 340px;
+}
+
+/* feature */
+.fe-header {
+  text-align: center;
+  font-size: 2.5rem;
+  padding-top: 3%;
+  font-family: 'Ubuntu Mono', monospace;
+  color: #28b5b5;
+}
+
+.fe-text {
+  color: #126e82;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.a {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  display: inline-block;
+  margin: 8px 3px;
+  color: #126e82;
+}
+
+.icon:hover {
+  color: #fa1e0e;
+}
+
+/* footer */
+.bottom {
+ background-color: #126e82;
+ padding: 50px 0 20px;
+ text-align: center;
+}
+
+.icon3{
+  color: white;
+}
+.footer-link{
+margin: 2px 10px 2px;
+}
+.copy{
+  color: #EAF6F6;
+  padding: 20px 0px;
+  margin-top: 10px;
+  font-size: 0.8rem;
+}
